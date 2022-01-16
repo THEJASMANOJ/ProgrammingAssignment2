@@ -1,4 +1,3 @@
-
 ##2 functions are used
 ##they are makeCacheMatrix and cacheSolve
 ##library(MASS) is used to calculate inverse of matrices
